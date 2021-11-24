@@ -4,3 +4,4 @@ Version1.1/DataSets/NumpyFiles/Mal/Fulldata/Mal_Train_Full_data.npy filter=lfs d
 Version1.1/DataSets/NumpyFiles/Tamil/Fulldata/Tamil_Train_Full_data.npy filter=lfs diff=lfs merge=lfs -text
 Version1.1/** filter=lfs diff=lfs merge=lfs -text
 Version1.0/** filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
